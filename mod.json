@@ -1,0 +1,9 @@
+{
+  "geode": "v6.0.0-alpha.1",
+  "gd": { "android": "2.2091" },
+  "id": "klik.fps120",
+  "name": "Test for Optimization",
+  "version": "v1.0.0",
+  "developer": "klik",
+  "description": "Fuerza 120 FPS en Android."
+}

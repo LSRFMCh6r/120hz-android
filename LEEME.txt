@@ -1,0 +1,5 @@
+1. Crea un repositorio en GitHub y sube todo el contenido de esta carpeta.
+2. Pestana Actions -> espera a que termine "Build Android".
+3. Abre la ejecucion y descarga el artifact fps120-Android64 (o 32).
+4. Dentro esta el archivo .geode: copialo a la carpeta mods de Geode.
+Cambia "tuusuario" en mod.json por tu nombre (solo minusculas, puntos, guiones).
